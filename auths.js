@@ -1,6 +1,6 @@
 
 module.exports = {
-    "discordToken":"",
+	"discordToken":"",
 	"data":"data.json",
-    "prefix":"!"
+	"prefix":"!"
 }
