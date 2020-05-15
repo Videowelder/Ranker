@@ -1,8 +1,8 @@
 {
-  "name": "utilibot",
+  "name": "ranker",
   "version": "1.0.0",
   "description": "does stuff",
-  "main": "utilibot.js",
+  "main": "ranker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
