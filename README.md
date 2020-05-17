@@ -1,7 +1,7 @@
 # Ranker
 
 Javascript-based Discord bot that ranks member activeness (Number of messages, how long on call, reactions given) and presents it.
-**The above code is STILL IN DEVELOPEMENT AND IS DEFINITELY NOT IN WORKING ORDER**
+**The above code is STILL IN DEVELOPEMENT AND IS DEFINITELY NOT IN CORRECT WORKING ORDER**
 
 ## Add to your server
 
