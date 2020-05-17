@@ -15,6 +15,8 @@ Even though the code here isn't ready, the bot is mostly working and the latest 
 | ----------- | ----------- |
 | [  ] | Input |
 
+---
+
 ### Current
 
 #### Messages
@@ -34,6 +36,8 @@ React to a message and you get EXP
 #### Voice
 
 Rated by the minute
+
+---
 
 ### Planned
 
