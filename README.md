@@ -1,3 +1,5 @@
+![current avtar icon](https://cdn.discordapp.com/avatars/705577985020788747/e29103045b6e0ab4f7502859c4998a17.webp)
+
 # Ranker
 
 Javascript-based Discord bot that ranks member activeness (Number of messages, how long on call, reactions given) and presents it.
