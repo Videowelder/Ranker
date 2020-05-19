@@ -1,5 +1,9 @@
 ![current avtar icon](https://cdn.discordapp.com/avatars/705577985020788747/e29103045b6e0ab4f7502859c4998a17.webp)
 
+![Generic badge](https://img.shields.io/badge/Project%20Started-February%2024th%202020-orange)
+![Website people.scs.carleton.ca](https://img.shields.io/website-up-down-green-red/http/people.scs.carleton.ca)
+![GitHub issues](https://img.shields.io/github/issues/Videowelder/Ranker)
+
 # Ranker
 
 Javascript-based Discord bot that ranks member activeness (Number of messages, how long on call, reactions given) and presents it.
